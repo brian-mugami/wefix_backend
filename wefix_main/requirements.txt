@@ -1,0 +1,15 @@
+Flask
+Flask-SQLAlchemy
+SQLAlchemy
+Flask-migrate
+Flask-script
+Flask-Cors
+requests
+psycopg2
+psycopg2-binary
+pika
+python-dotenv
+flask-smorest
+flask-marshmallow
+flask-session
+redis
